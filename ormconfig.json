@@ -1,0 +1,11 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": "3306",
+    "username": "root",
+    "password": "c4e1ynkwohl",
+    "database": "gamedev",
+    "entities": ["src/**/*{.entity.js,.entity.ts}"],
+    "migrations": ["src/migrations/**/*{.js,.ts}"],
+    "subscribers": ["src/subscribers/**/*{.js,.ts}"]
+}
