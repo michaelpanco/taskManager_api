@@ -12,10 +12,10 @@
 -   create .env in your project root and copy the content of the .env.sample to
     your .env file
 -   your .env file should have a valid database credentials to connect to your
-    database, otherwise the system will not able run properly
--   run `npm install` to install the NodeJS dependencies
+    database, otherwise the system will not able to run properly
+-   run `npm install` to install the all NodeJS dependencies
 -   run `npm run start:dev` to start the project
--   normally it will run under `http://localhost:3000`
+-   the project will run under `http://localhost:3000` URL
 
 ## Database Setup
 
