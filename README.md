@@ -9,8 +9,8 @@
 
 -   Make sure you have NodeJS in your local machine
 -   git clone `git@github.com:michaelpanco/taskManager_api.git`
--   create .env in your project root and copy the content of the .env.sample to
-    your .env file
+-   Got to your project directory and create .env and copy the content of the
+    .env.sample to your .env file
 -   your .env file should have a valid database credentials to connect to your
     database, otherwise the system will not able to run properly
 -   run `npm install` to install the all NodeJS dependencies
