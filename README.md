@@ -7,7 +7,6 @@
 
 ## Installation
 
--   Make sure you have NodeJS installed in your local machine
 -   Clone the project repo by running
     `git clone git@github.com:michaelpanco/taskManager_api.git`
 -   Go to your project directory and create .env and copy the content of the
