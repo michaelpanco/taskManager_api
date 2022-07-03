@@ -1,5 +1,10 @@
 # Task Manager API
 
+## Requirements
+
+-   NodeJS
+-   MySQL
+
 ## Installation
 
 -   Make sure you have NodeJS installed in your local machine
