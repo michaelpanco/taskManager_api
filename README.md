@@ -9,7 +9,7 @@
     .env.sample to your created .env file
 -   Your .env file should have a valid database credentials to be able to
     connect to your database, otherwise the system will not able to run properly
--   Run `npm install` to install the all NodeJS dependencies
+-   Run `npm install` to install all NodeJS dependencies
 -   Run `npm run migration:run` to create all the database tables needed for
     this project
 -   Run `npm run start:dev` to start the project
