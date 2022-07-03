@@ -18,7 +18,7 @@
 
 ## API Endpoints
 
-Please see below API endpoints available for this project
+All endpoints are built with REST API
 
 | Command                  | URL         | Method |                  Request Payload                  |
 | ------------------------ | ----------- | :----: | :-----------------------------------------------: |
